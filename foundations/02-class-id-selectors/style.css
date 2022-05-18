@@ -1,0 +1,19 @@
+.shared {
+    background-color:rgb(209, 140, 140);
+    font-family: Verdana,DejaVu Sans,sans-serif;
+}
+
+#blue-big {
+    color:blue;
+    font-size:36px;
+}
+
+#test {
+    background-color:rgb(40, 134, 72);
+    font-size:24px;
+    font-weight:bold;
+}
+
+.fontsize24 {
+    font-size:24px;
+}
